@@ -1,0 +1,3 @@
+User-agent: Yandex
+Disallow: /search/ https://scratchwikibyshaman2016.github.io/sitemap.txt
+Sitemap: https://scratchwikibyshaman2016.github.io/sitemap.txt
